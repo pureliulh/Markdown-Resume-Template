@@ -4,9 +4,9 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
 * 手 机：17817726608&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：pureliulh@163.com    
-* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java 开发实习
+* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java 开发实习
 
 ## 教育经历
         
