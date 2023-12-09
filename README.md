@@ -1,73 +1,41 @@
  <center>
-     <h1>XXX</h1>
+     <h1>刘林海</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
+* 手 机：17817726608&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：pureliulh@163.com    
+* 专 业：软件工程 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java 开发实习
 
-## 工作及教育经历
-
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+## 教育经历
+        
+* 广东科技学院&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2024.6&emsp;&emsp;&emsp;&emsp; 软件工程-本科  
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* 熟悉 Java 基础、集合、IO、反射、多线程等基础框架。
+* 熟悉 MySQL，熟悉常见的存储引擎、事务、索引、日志、锁机制等相关知识，了解性能优化。
+* 熟悉 Redis，熟悉 Redis 的各种数据类型及应用场景，删除策略和淘汰策略，持久化，主从复制，哨兵机制，切片集群，缓存击穿、缓存穿透和缓存雪崩的常见解决方案。
+* 熟悉 Spring、SpringBoot、SpringMVC、MyBatis 等主流后端框架的使用。
+* 熟练使用 Maven、Git、IDEA、Docker 等开发工具。
+* 了解 Linux 的常用命令。
 
 ## 项目经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
-
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
-
-## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
-
-## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
+### 网络论坛社区项目 - 独立开发 - 2023.07- 2023.11 
+* 项目描述：这个项目的整体结构来源于牛客网，主要实现了登录、注册、邮件激活、修改密码、点赞、关注、发送私信、过滤敏感词、添加评论、统一记录日志、优化权限控制、热帖排行、全文搜索、消息通知、用户数据统计等功能。
+* 核心技术：SpringBoot、MyBatis、MySQL、Redis、SpringSecurity、Kafka、Elasticsearch
+* 主要工作：
+  * 给用户的密码组合 salt 字段，通过 MD5 算法加密生成密码，防止用户密码被破解；
+  * 使用 Redis 优化项目中对热点数据的访问，如：登录凭证、验证码、点赞、关注、用户数据等，提高数据的存取效率；
+  * 进行统一的异常处理，使用 SpringAOP 面向切面的思想统一的记录日志；
+  * 利用 Kafka 实现异步的站内通知，面对大量通知时不阻塞主线程，对系统进行解耦、削峰；
+  * 利用 Elasticsearch 实现实时全文搜索，并高亮显示关键字；
+  * 使用 Spring Security 实现权限控制，不同的用户具有不同的权限。
 
 ## 其他信息 
-* 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等 
-
-> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
-
-# 关于作者
-
-大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事分布式技术研发。
-
-也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
-
-<a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
-
-# 公众号
-
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
-
-
-**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
-
-**来看看就知道了，你会发现相见恨晚！**
-
-<a name="公众号"></a>
-
-![](https://github.com/youngyangyang04/leetcode-master/blob/master/pics/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
-
+* 获得证书：普通话二级甲等、C1 驾驶证、CET-4
+* 本人乐观向上、适应力强、勤奋好学、勇于迎接新挑战；
+* 可周内到岗，希望能够与公司一起成长进步，实现个人价值；
+* 工作态度认真负责，善于沟通，具有团队合作精神。
